@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="8zCJ_iFiBuxCSqIyeLha">
+    <mxGraphModel dx="1042" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-1" target="DrmiWvSFHTgXu1Fi38w7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-1" value="انشاء حساب جمعية" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-2" target="DrmiWvSFHTgXu1Fi38w7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-2" value="ادخال البيانات الاساسية+رفع المستندات الرسمية" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-4" target="DrmiWvSFHTgXu1Fi38w7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-4" value="ارسال رمز تحقق" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-6" target="DrmiWvSFHTgXu1Fi38w7-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-6" value="ادخال رمز التحقق" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0114" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-8" target="DrmiWvSFHTgXu1Fi38w7-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-18" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.42" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-8" value="هل رمز التحقق صحيح" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-15" value="اعادة ارسال رمز التحقق" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="250" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-16" target="DrmiWvSFHTgXu1Fi38w7-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-16" value="فحص مبدئي للبيانات والمستندات" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-19" target="DrmiWvSFHTgXu1Fi38w7-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-23" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.0358" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-19" target="DrmiWvSFHTgXu1Fi38w7-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-26" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.3579" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-19" value="هل البيانات مكتملة او صحيحه؟" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="900" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-21" value="طلب معلومات ومستندات اضافية" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="905" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-24" target="DrmiWvSFHTgXu1Fi38w7-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-24" value="تحويل الطلب للمراجعة اليدوية" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-27" target="DrmiWvSFHTgXu1Fi38w7-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-27" value="اجراء التحقق اليدوي&lt;div&gt;(الاتصال ,مطابقة المستندات,التحقق من المقر)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-29" target="DrmiWvSFHTgXu1Fi38w7-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-39" value="قبول الطلب" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.379" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-29" value="هل الجمعية مثبتة وحقيقية؟" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1280" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-32" target="DrmiWvSFHTgXu1Fi38w7-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-32" value="ارسال سبب الرفض" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.048;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-29" target="DrmiWvSFHTgXu1Fi38w7-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-34" value="رفض الطلب" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DrmiWvSFHTgXu1Fi38w7-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.0027" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DrmiWvSFHTgXu1Fi38w7-35" target="DrmiWvSFHTgXu1Fi38w7-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-35" value="تفعيل الحساب" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-36" value="انهاء (تم الرفض)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DrmiWvSFHTgXu1Fi38w7-40" value="انهاء (تم التفعيل)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
