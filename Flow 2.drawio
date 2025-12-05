@@ -1,0 +1,129 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="NmOKGDe_OeU93Q-WWZ7c">
+    <mxGraphModel dx="1097" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xzlX4CnubURyEAm-ngVc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-1" target="xzlX4CnubURyEAm-ngVc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-1" value="الجمعية تضغط&amp;nbsp;&lt;div&gt;&quot;تسجيل الدخول &quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-2" target="xzlX4CnubURyEAm-ngVc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-2" value="ادخال بيانات تسجيل الدخول&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-4" target="xzlX4CnubURyEAm-ngVc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-12" value="&lt;b&gt;نعم&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xzlX4CnubURyEAm-ngVc-10">
+          <mxGeometry x="-0.2756" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-4" value="البيانات صحيحة ؟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-4" target="xzlX4CnubURyEAm-ngVc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="350" />
+              <mxPoint x="200" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-8" value="&lt;b&gt;لا&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xzlX4CnubURyEAm-ngVc-7">
+          <mxGeometry x="-0.609" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-9" target="xzlX4CnubURyEAm-ngVc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-9" value="(Dashboard)&lt;div&gt;استعراض الفائض المتاح&lt;/div&gt;&lt;div&gt;(التبرعات)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-13" target="xzlX4CnubURyEAm-ngVc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-13" value="عرض تفاصيل الفائض&lt;div&gt;(صور , وصف , كمية , موقع , شروط )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-15" value="هل الجمعية قامت بالحجز ؟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-17" target="xzlX4CnubURyEAm-ngVc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-17" value="تحديد موعد الاستلام&amp;nbsp;&lt;div&gt;(يوم , ساعة , طريقة الاستلام)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="790" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-15" target="xzlX4CnubURyEAm-ngVc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-20" target="xzlX4CnubURyEAm-ngVc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-20" value="تاكيد الحجز&amp;nbsp;&lt;div&gt;(فتح تذكرة + اشعار المنشاة )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-22" value="المعاينة عند الاستلام&amp;nbsp;&lt;div&gt;(فحص , تصوير , توقيع المستلم )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="1000" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-20" target="xzlX4CnubURyEAm-ngVc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-25" target="xzlX4CnubURyEAm-ngVc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-37" value="نعم" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xzlX4CnubURyEAm-ngVc-35">
+          <mxGeometry x="-0.5556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-25" value="هل الاستلام مطابق" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-22" target="xzlX4CnubURyEAm-ngVc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-28" target="xzlX4CnubURyEAm-ngVc-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-28" value="فتح بلاغ اختلاف&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-25" target="xzlX4CnubURyEAm-ngVc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-32" value="&lt;b&gt;لا&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xzlX4CnubURyEAm-ngVc-29">
+          <mxGeometry x="-0.099" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-33" target="xzlX4CnubURyEAm-ngVc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-33" value="اغلاق تذكرة الحجز&amp;nbsp;&lt;div&gt;تاكيد الاستلام&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzlX4CnubURyEAm-ngVc-34" target="xzlX4CnubURyEAm-ngVc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzlX4CnubURyEAm-ngVc-34" value="تقييم المنشاة بعد الاستلام&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
